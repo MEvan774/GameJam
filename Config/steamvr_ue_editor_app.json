@@ -5,7 +5,11 @@
 			"app_key": "application.generated.ue.top-down-bp-game-template-17155196.ue4editor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
+<<<<<<< Updated upstream
 			"action_manifest_path": "E:/School/UnrealEngine/GameJam/Config/SteamVRBindings/steamvr_manifest.json",
+=======
+			"action_manifest_path": "E:/Merge/GameJam/Config/SteamVRBindings/steamvr_manifest.json",
+>>>>>>> Stashed changes
 			"strings":
 			{
 				"en_us":
